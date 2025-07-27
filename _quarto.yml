@@ -2,11 +2,12 @@ project:
   type: book
 
 book:
-  title: "Trivium: Notes in Practical Logic, Critical Thinking, Language and Rhetoric"
+  title: "Trivium Notes"
   author: "Igor Dimitrov"
   date: "5/17/2024"
   chapters:
     - index.qmd
+    - 01-liberal-arts.qmd
   page-navigation: true
 
 # bibliography: references.bib
